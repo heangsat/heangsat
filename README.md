@@ -4,12 +4,12 @@
 
 I'm a passionate developer from Cambodia, currently working on Web Development Projects. I love building tools that are user-friendly and simple.
 
-- 🔭 I’m currently working on **[Web Development Projects]**
-- 🌱 I’m currently learning **[Technology/Language]**
-- 👯 I’m looking to collaborate on **[Web Development Projects]**
-- 💬 Ask me about **[Topics]**
-- 📫 How to reach me: **[Email/Twitter/telegram]**
-- ⚡ Fun fact: **[Something interesting about you]**
+- 🔭 I’m currently working on **Web Development Projects**
+- 🌱 I’m currently learning **Technology/Language**
+- 👯 I’m looking to collaborate on **Web Development Projects**
+- 💬 Ask me about **Topics**
+- 📫 How to reach me: **Email/Twitter/telegram**
+- ⚡ Fun fact: **I spend 10% of my time writing code and 90% of my time staring at the screen wondering why it’s not working... only to realize I missed a semicolon**
 
 ---
 
