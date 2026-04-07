@@ -1,4 +1,4 @@
-# Hi there, I'm Heang Sat 👋
+# Hello, I'm Heang Sat 👋
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&width=435&lines=Full+Stack+Developer;Open+Source+Enthusiast;Always+Learning)](https://git.io/typing-svg)
 
