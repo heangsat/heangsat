@@ -56,7 +56,7 @@ I'm a passionate developer from Cambodia, currently working on Web Development P
   <a href="https://linkedin.com/in/heangsat" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://your-portfolio.com" target="_blank">
+  <a href=https://heangsat.github.io/portfolio.github.io/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio" />
   </a>
 </p>
